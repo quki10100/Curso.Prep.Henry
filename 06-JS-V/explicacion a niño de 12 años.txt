@@ -1,0 +1,7 @@
+explicacion a niño de 12 años
+ `prototype`
+_Constructors_ (de Clases)
+la palabra prototype va a va a hacer referencia al esqueleto de un objeto. no debe confundirce con __proto__ este hace referencia al objeto que se uso como prototype de un objeto.
+
+constructors es comola palabra lo indica un constructor va a caracterizar a una clase 
+le dira que hacer con sus argumentos y muchas otras cosas solo puede haber un constructor en una clase.

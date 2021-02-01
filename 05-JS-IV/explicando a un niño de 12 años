@@ -1,0 +1,16 @@
+explicando a un niño de 12 años 
+objetos
+propiedades
+metodos 
+bucles for in
+notacion de puntos vs notacion de corchetes
+
+un objeto contiene informacion y lo que quieras agregarle siempre y cuando tenga relacion con ese objeto si es algo que no tiene que ver con el objeto deves crear otro...
+
+una propiedad es algo que esta dentro del objeto la podemos eliminar o crear mas de ellas
+
+la notacion de putos es especifica y solo la debes usar si estas seguro de que estas llamando a la propiedad del objeto si crees que te estas pasando un valor para ubicar la propiedad, usa notacion de corchetes este va a buscar una variable que contenga la propiedad
+
+los metodos son como robots dentro de ese objeto estos sirven ya que cuando los llamamos estos hacen la tarea que tienen programada o dada.
+
+el bucle for in es como mirar todo lo que tiene el objeto.
