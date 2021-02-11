@@ -1,0 +1,14 @@
+
+	* Variables
+	* Strings
+	* Funciones (argumentos, `return`)
+	* Declaraciones `if`
+	* Valores booleanos (`true`, `false`)
+
+    -Una variable es como tomar un caja ponerle un nombre y dentro gurdar alguna cosa.
+    -Una Strings es una palabra en este programa presentamos las palabras entre  '' ejm: 'hola'
+    - una funcion es como un electricista o un plomero lo llamas porque sabes lo que hace y tu lo nesecitas
+    - un argumento es decirle a ese plomero que hacer un tu casa
+    - y el return es el trabajo realizado por el plomero
+    - if es como hacegurarte de allgo antes de hacer lo que sea como cuando ves primero si esta lloviendo antes de salir a la calle 
+    -un volor booleanos son buenos o son malos no hay punto medio
